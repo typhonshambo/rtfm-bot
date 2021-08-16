@@ -20,6 +20,7 @@ class help(commands.Cog):
             description=f"""
             :small_blue_diamond: `{prefix}rtfm <name>` - shows docs regarding <name>
             :small_blue_diamond: `{prefix}help` - shows this command list
+            :small_blue_diamond: `{prefix}invite` - Invite the bot to your server
             """
         )
         help_embed.set_thumbnail(url="https://media.discordapp.net/attachments/460568954968997890/761037965987807232/dpycogs.png")
