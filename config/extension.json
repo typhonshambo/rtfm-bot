@@ -1,0 +1,7 @@
+{
+    "extension" : [
+        "cogs.rtfm",
+        "cogs.invite",
+        "cogs.help"
+    ]
+}
