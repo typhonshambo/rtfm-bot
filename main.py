@@ -24,9 +24,7 @@ async def on_ready():
     print("[🟢] Bot online!")
     DiscordComponents(bot)
    
-@slash.slash(name = 'Ping', description='Sends Pong')
-async def ping(ctx):
-    await ctx.send('pong')
+
     
 with open ('config/extension.json', 'r') as data:
     cog_data = json.load(data)
