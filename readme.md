@@ -14,12 +14,6 @@ You need to put necessary details in the [config.json](https://github.com/typhon
 }
 ```
 
-## Bot invite 
-
-A ready made bot has already been made you can invite it into your server and test it out.
-
-- [x] **[click here](https://discord.com/api/oauth2/authorize?client_id=876540023615397908&permissions=260382780481&scope=bot%20applications.commands) to invite the bot**
-
 ## Command list
 
 | command                        | usage                          |
