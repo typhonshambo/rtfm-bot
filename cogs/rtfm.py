@@ -50,7 +50,17 @@ class Docs(commands.Cog, name="Documentation"):
 
         self.page_types = {
             "discord.py": "https://discordpy.readthedocs.io/en/latest",
-            "levelling": "https://discord-ext-levelling.readthedocs.io/en/latest/",
+            "latest": "https://discordpy.readthedocs.io/en/latest/",
+            "stable": "https://discordpy.readthedocs.io/en/stable/",
+            "v1.7.3": "https://discordpy.readthedocs.io/en/v1.7.3/",
+            "v1.7.2": "https://discordpy.readthedocs.io/en/v1.7.2/",
+            "v1.7.1": "https://discordpy.readthedocs.io/en/v1.7.1/",
+            "v1.7.0": "https://discordpy.readthedocs.io/en/v1.7.0",
+            "v1.6.0": "https://discordpy.readthedocs.io/en/v1.6.0",
+            "legacy": "https://discordpy.readthedocs.io/en/legacy/",
+            "async": "https://discordpy.readthedocs.io/en/async/",
+            "ja_latest": "https://discordpy.readthedocs.io/ja/latest/",
+            "ja_stable": "https://discordpy.readthedocs.io/ja/stable/",
         }
 
     def finder(self, text, collection, *, key=None, lazy=True):
