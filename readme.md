@@ -1,5 +1,6 @@
 # <h1 align="center"> <img src="assets/dpycogs.png" width="30px">RTFM BOT FOR DISCORD.PY<img src="assets/dpycogs.png" width="30px"></h1>
-
+## Note
+i won't be updating this code anymore and neither can provide support regarding the code
 ## What it can do?
 it can show docs related to `discord.py` on the basis of search by keywords and can help people in coding. The bot is highly helpful for the coding related servers where people can easily search for help by using keywords
 
